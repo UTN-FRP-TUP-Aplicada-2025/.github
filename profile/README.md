@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><em>
-“Las ratonas y su sistema de datos”.  Ilustración artística inspiradas en las ilustraciones de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a><br> para el drive de la práctica de programación 1 y 2  
+“Las ratonas y su sistema de datos”.  Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>. 
 </em></p> 
 
 <p align="center"><em>
