@@ -1,9 +1,10 @@
 # 👋 UTN - FRP - TUP - Programación Aplicada - 2025
 
 ---
-<em>
+
+<div align="center">
 ## Grupo de Programación Aplicada <br/> 2025  <br/> Documentos, ejemplos y guía de ejercicios 
-</em>
+</div>
 
 <p align="center">
 <img src="la_ratona_y_su_sistema_de_datos.png?v1" alt="La ratona y su sistema de datos" width="400"/>
@@ -17,6 +18,7 @@
 La ratona cliente emite consultas, la ratona mensajera lleva el mensaje de consulta al servicio, <br/>
 la ratona servicio atiende la consulta y finalmente la ratona mensajera entrega el mensaje de respuesta <br/>
  a la ratona cliente. <br/>
+ 
 
 </em></p>
 
