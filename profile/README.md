@@ -1,8 +1,9 @@
 # 👋 UTN - FRP - TUP - Programación Aplicada - 2025
 
 ---
-
+<em>
 ## Grupo de Programación Aplicada <br/> 2025  <br/> Documentos, ejemplos y guía de ejercicios 
+</em>
 
 <p align="center">
 <img src="la_ratona_y_su_sistema_de_datos.png?v1" alt="La ratona y su sistema de datos" width="400"/>
