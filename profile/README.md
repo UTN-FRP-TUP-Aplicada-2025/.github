@@ -2,7 +2,7 @@
 
 --
 
-## Grupo de Aplicada - 2025 - Documentos, ejemplos y guía de ejercicios 
+## Grupo de Programación Aplicada - 2025 - Documentos, ejemplos y guía de ejercicios 
 
 <p align="center">
 <img src="la_ratona_y_su_sistema_de_datos.png?v1" alt="La ratona y su sistema de datos" width="400"/>
@@ -13,9 +13,9 @@
 </em></p> 
 
 <p align="center"><em>
-La ratona cliente emite una consulta, una ratana mensajera entrega el mensaje con la consulta al servicio,<br>
-la ratona servicio atiende la consulta y finalmente la ratona mensajera entrega el mensaje respuesta <br>
-a la ratona cliente. 
+La ratona cliente emite consultas, la ratona mensajera lleva el mensaje de consulta al servicio, <br/>
+la ratona servicio atiende la consulta y finalmente la ratona mensajera entrega el mensaje de respuesta <br/>
+ a la ratona cliente. <br/>
 
 </em></p>
 
