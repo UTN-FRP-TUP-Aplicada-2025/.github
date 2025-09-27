@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<img src="la_ratona_y_su_sistema_de_datos.png?v1" alt="La ratona y su sistema de datos" width="400"/>
+<img src="la_ratona_y_su_sistema_de_datos.png?v2" alt="La ratona y su sistema de datos" width="400"/>
 </p>
 
 <p align="center"><em>
