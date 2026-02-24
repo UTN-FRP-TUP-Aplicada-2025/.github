@@ -1,5 +1,14 @@
 # 👋 UTN - FRP - TUP - Programación Aplicada - 2025
 
+<p align="center">
+  <a href="https://www.youtube.com/@fernandofilipuzziutn">
+    <img src="https://img.shields.io/badge/YouTube-Fernando%20Filipuzzi-red?logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/fernandofilipuzziutn">
+    <img src="https://img.shields.io/badge/Twitch-Fernando%20Filipuzzi-purple?logo=twitch&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -24,6 +33,7 @@ la ratona servicio atiende la consulta y finalmente la ratona mensajera entrega 
 
 ## Enlaces
 [Documentos y guías de ejercicios](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview)
+
 
 ---
 
